@@ -1,3 +1,9 @@
+"""
+Author: Kamrul Hasan
+Date: 16.04.2022
+Email: hasan.alive@gmail.com
+"""
+
 from pyspark.sql.types import StringType, StructField, StructType, TimestampType
 import pandas as pd
 
