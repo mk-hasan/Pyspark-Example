@@ -1,4 +1,4 @@
-# Documentation(ComPredict Task)
+# Documentation(Lidl Task)
 
 Project Structure
 
