@@ -1,3 +1,10 @@
+"""
+Author: Kamrul Hasan
+Date: 16.04.2022
+Email: hasan.alive@gmail.com
+"""
+
+
 import json
 from pathlib import Path
 from pyspark.sql.functions import col, window, hour, minute, second, collect_set, explode, date_trunc
