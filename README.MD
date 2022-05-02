@@ -1,8 +1,8 @@
-# Documentation(Lidl Task)
+# Documentation
 
 Project Structure
 
-    - Lidl-Task
+    - Ex
         - ci
         - resources
             - config
